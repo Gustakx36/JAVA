@@ -9,7 +9,7 @@ public class Informacao {
 	public Informacao(String nome, int idade, String altura) {
 		this.nome = nome;
 		this.idade = idade;
-		this.altura = Double.parseDouble(altura);;
+		this.altura = Double.parseDouble(altura);
 	}
 
 	public String getNome() {
