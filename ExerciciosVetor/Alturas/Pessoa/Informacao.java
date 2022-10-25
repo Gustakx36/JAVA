@@ -36,5 +36,4 @@ public class Informacao {
 		this.altura = altura;
 	}
 	
-	
 }
